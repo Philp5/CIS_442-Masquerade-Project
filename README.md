@@ -23,4 +23,5 @@ pip isntall python-libmagic
 Clone repository to your local machine <br />
 ```python
 git clone
-```python
+```
+
